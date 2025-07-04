@@ -21,12 +21,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogasparini&show_icons=true&theme=radical)
-
----
-
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-gasparini-685b59372)
